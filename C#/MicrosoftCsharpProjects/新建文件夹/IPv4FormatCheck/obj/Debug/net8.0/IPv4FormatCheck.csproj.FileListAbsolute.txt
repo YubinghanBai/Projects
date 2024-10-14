@@ -1,0 +1,14 @@
+D:\programmer\Projects\C#\CsharpProjects\新建文件夹\IPv4FormatCheck\bin\Debug\net8.0\IPv4FormatCheck.exe
+D:\programmer\Projects\C#\CsharpProjects\新建文件夹\IPv4FormatCheck\bin\Debug\net8.0\IPv4FormatCheck.deps.json
+D:\programmer\Projects\C#\CsharpProjects\新建文件夹\IPv4FormatCheck\bin\Debug\net8.0\IPv4FormatCheck.runtimeconfig.json
+D:\programmer\Projects\C#\CsharpProjects\新建文件夹\IPv4FormatCheck\bin\Debug\net8.0\IPv4FormatCheck.dll
+D:\programmer\Projects\C#\CsharpProjects\新建文件夹\IPv4FormatCheck\bin\Debug\net8.0\IPv4FormatCheck.pdb
+D:\programmer\Projects\C#\CsharpProjects\新建文件夹\IPv4FormatCheck\obj\Debug\net8.0\IPv4FormatCheck.GeneratedMSBuildEditorConfig.editorconfig
+D:\programmer\Projects\C#\CsharpProjects\新建文件夹\IPv4FormatCheck\obj\Debug\net8.0\IPv4FormatCheck.AssemblyInfoInputs.cache
+D:\programmer\Projects\C#\CsharpProjects\新建文件夹\IPv4FormatCheck\obj\Debug\net8.0\IPv4FormatCheck.AssemblyInfo.cs
+D:\programmer\Projects\C#\CsharpProjects\新建文件夹\IPv4FormatCheck\obj\Debug\net8.0\IPv4FormatCheck.csproj.CoreCompileInputs.cache
+D:\programmer\Projects\C#\CsharpProjects\新建文件夹\IPv4FormatCheck\obj\Debug\net8.0\IPv4FormatCheck.dll
+D:\programmer\Projects\C#\CsharpProjects\新建文件夹\IPv4FormatCheck\obj\Debug\net8.0\refint\IPv4FormatCheck.dll
+D:\programmer\Projects\C#\CsharpProjects\新建文件夹\IPv4FormatCheck\obj\Debug\net8.0\IPv4FormatCheck.pdb
+D:\programmer\Projects\C#\CsharpProjects\新建文件夹\IPv4FormatCheck\obj\Debug\net8.0\IPv4FormatCheck.genruntimeconfig.cache
+D:\programmer\Projects\C#\CsharpProjects\新建文件夹\IPv4FormatCheck\obj\Debug\net8.0\ref\IPv4FormatCheck.dll

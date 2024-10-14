@@ -1,0 +1,17 @@
+D:\programmer\Projects\C#\CsharpProjects\Challenge-project-foreach-if-array-CSharp-main\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\bin\Debug\net8.0\Starter.exe
+D:\programmer\Projects\C#\CsharpProjects\Challenge-project-foreach-if-array-CSharp-main\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\bin\Debug\net8.0\Starter.deps.json
+D:\programmer\Projects\C#\CsharpProjects\Challenge-project-foreach-if-array-CSharp-main\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\bin\Debug\net8.0\Starter.runtimeconfig.json
+D:\programmer\Projects\C#\CsharpProjects\Challenge-project-foreach-if-array-CSharp-main\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\bin\Debug\net8.0\Starter.dll
+D:\programmer\Projects\C#\CsharpProjects\Challenge-project-foreach-if-array-CSharp-main\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\bin\Debug\net8.0\Starter.pdb
+D:\programmer\Projects\C#\CsharpProjects\Challenge-project-foreach-if-array-CSharp-main\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+D:\programmer\Projects\C#\CsharpProjects\Challenge-project-foreach-if-array-CSharp-main\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfoInputs.cache
+D:\programmer\Projects\C#\CsharpProjects\Challenge-project-foreach-if-array-CSharp-main\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfo.cs
+D:\programmer\Projects\C#\CsharpProjects\Challenge-project-foreach-if-array-CSharp-main\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.csproj.CoreCompileInputs.cache
+D:\programmer\Projects\C#\CsharpProjects\Challenge-project-foreach-if-array-CSharp-main\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.dll
+D:\programmer\Projects\C#\CsharpProjects\Challenge-project-foreach-if-array-CSharp-main\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\refint\Starter.dll
+D:\programmer\Projects\C#\CsharpProjects\Challenge-project-foreach-if-array-CSharp-main\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.pdb
+D:\programmer\Projects\C#\CsharpProjects\Challenge-project-foreach-if-array-CSharp-main\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.genruntimeconfig.cache
+D:\programmer\Projects\C#\CsharpProjects\Challenge-project-foreach-if-array-CSharp-main\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\ref\Starter.dll
+D:\programmer\Projects\C#\CsharpProjects\Challenge-project-foreach-if-array-CSharp-main\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\programmer\Projects\C#\CsharpProjects\Challenge-project-foreach-if-array-CSharp-main\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.csproj.AssemblyReference.cache
+D:\programmer\Projects\C#\CsharpProjects\Challenge-project-foreach-if-array-CSharp-main\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.csproj.Up2Date

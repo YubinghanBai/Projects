@@ -1,0 +1,14 @@
+D:\programmer\Projects\C#\CsharpProjects\Hero_Monster\bin\Debug\net8.0\Hero_Monster.exe
+D:\programmer\Projects\C#\CsharpProjects\Hero_Monster\bin\Debug\net8.0\Hero_Monster.deps.json
+D:\programmer\Projects\C#\CsharpProjects\Hero_Monster\bin\Debug\net8.0\Hero_Monster.runtimeconfig.json
+D:\programmer\Projects\C#\CsharpProjects\Hero_Monster\bin\Debug\net8.0\Hero_Monster.dll
+D:\programmer\Projects\C#\CsharpProjects\Hero_Monster\bin\Debug\net8.0\Hero_Monster.pdb
+D:\programmer\Projects\C#\CsharpProjects\Hero_Monster\obj\Debug\net8.0\Hero_Monster.GeneratedMSBuildEditorConfig.editorconfig
+D:\programmer\Projects\C#\CsharpProjects\Hero_Monster\obj\Debug\net8.0\Hero_Monster.AssemblyInfoInputs.cache
+D:\programmer\Projects\C#\CsharpProjects\Hero_Monster\obj\Debug\net8.0\Hero_Monster.AssemblyInfo.cs
+D:\programmer\Projects\C#\CsharpProjects\Hero_Monster\obj\Debug\net8.0\Hero_Monster.csproj.CoreCompileInputs.cache
+D:\programmer\Projects\C#\CsharpProjects\Hero_Monster\obj\Debug\net8.0\Hero_Monster.dll
+D:\programmer\Projects\C#\CsharpProjects\Hero_Monster\obj\Debug\net8.0\refint\Hero_Monster.dll
+D:\programmer\Projects\C#\CsharpProjects\Hero_Monster\obj\Debug\net8.0\Hero_Monster.pdb
+D:\programmer\Projects\C#\CsharpProjects\Hero_Monster\obj\Debug\net8.0\Hero_Monster.genruntimeconfig.cache
+D:\programmer\Projects\C#\CsharpProjects\Hero_Monster\obj\Debug\net8.0\ref\Hero_Monster.dll

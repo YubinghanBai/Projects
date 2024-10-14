@@ -1,0 +1,14 @@
+D:\programmer\Projects\C#\CsharpProjects\do_while Learning\do-while_program\obj\Debug\net8.0\do-while_program.GeneratedMSBuildEditorConfig.editorconfig
+D:\programmer\Projects\C#\CsharpProjects\do_while Learning\do-while_program\obj\Debug\net8.0\do-while_program.AssemblyInfoInputs.cache
+D:\programmer\Projects\C#\CsharpProjects\do_while Learning\do-while_program\obj\Debug\net8.0\do-while_program.AssemblyInfo.cs
+D:\programmer\Projects\C#\CsharpProjects\do_while Learning\do-while_program\obj\Debug\net8.0\do-while_program.csproj.CoreCompileInputs.cache
+D:\programmer\Projects\C#\CsharpProjects\do_while Learning\do-while_program\bin\Debug\net8.0\do-while_program.exe
+D:\programmer\Projects\C#\CsharpProjects\do_while Learning\do-while_program\bin\Debug\net8.0\do-while_program.deps.json
+D:\programmer\Projects\C#\CsharpProjects\do_while Learning\do-while_program\bin\Debug\net8.0\do-while_program.runtimeconfig.json
+D:\programmer\Projects\C#\CsharpProjects\do_while Learning\do-while_program\bin\Debug\net8.0\do-while_program.dll
+D:\programmer\Projects\C#\CsharpProjects\do_while Learning\do-while_program\bin\Debug\net8.0\do-while_program.pdb
+D:\programmer\Projects\C#\CsharpProjects\do_while Learning\do-while_program\obj\Debug\net8.0\do-while_program.dll
+D:\programmer\Projects\C#\CsharpProjects\do_while Learning\do-while_program\obj\Debug\net8.0\refint\do-while_program.dll
+D:\programmer\Projects\C#\CsharpProjects\do_while Learning\do-while_program\obj\Debug\net8.0\do-while_program.pdb
+D:\programmer\Projects\C#\CsharpProjects\do_while Learning\do-while_program\obj\Debug\net8.0\do-while_program.genruntimeconfig.cache
+D:\programmer\Projects\C#\CsharpProjects\do_while Learning\do-while_program\obj\Debug\net8.0\ref\do-while_program.dll

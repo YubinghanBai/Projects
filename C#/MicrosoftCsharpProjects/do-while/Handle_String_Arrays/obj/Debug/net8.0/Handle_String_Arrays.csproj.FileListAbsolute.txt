@@ -1,0 +1,14 @@
+D:\programmer\Projects\C#\CsharpProjects\do_while Learning\Handle_String_Arrays\obj\Debug\net8.0\Handle_String_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\programmer\Projects\C#\CsharpProjects\do_while Learning\Handle_String_Arrays\obj\Debug\net8.0\Handle_String_Arrays.AssemblyInfoInputs.cache
+D:\programmer\Projects\C#\CsharpProjects\do_while Learning\Handle_String_Arrays\obj\Debug\net8.0\Handle_String_Arrays.AssemblyInfo.cs
+D:\programmer\Projects\C#\CsharpProjects\do_while Learning\Handle_String_Arrays\obj\Debug\net8.0\Handle_String_Arrays.csproj.CoreCompileInputs.cache
+D:\programmer\Projects\C#\CsharpProjects\do_while Learning\Handle_String_Arrays\bin\Debug\net8.0\Handle_String_Arrays.exe
+D:\programmer\Projects\C#\CsharpProjects\do_while Learning\Handle_String_Arrays\bin\Debug\net8.0\Handle_String_Arrays.deps.json
+D:\programmer\Projects\C#\CsharpProjects\do_while Learning\Handle_String_Arrays\bin\Debug\net8.0\Handle_String_Arrays.runtimeconfig.json
+D:\programmer\Projects\C#\CsharpProjects\do_while Learning\Handle_String_Arrays\bin\Debug\net8.0\Handle_String_Arrays.dll
+D:\programmer\Projects\C#\CsharpProjects\do_while Learning\Handle_String_Arrays\bin\Debug\net8.0\Handle_String_Arrays.pdb
+D:\programmer\Projects\C#\CsharpProjects\do_while Learning\Handle_String_Arrays\obj\Debug\net8.0\Handle_String_Arrays.dll
+D:\programmer\Projects\C#\CsharpProjects\do_while Learning\Handle_String_Arrays\obj\Debug\net8.0\refint\Handle_String_Arrays.dll
+D:\programmer\Projects\C#\CsharpProjects\do_while Learning\Handle_String_Arrays\obj\Debug\net8.0\Handle_String_Arrays.pdb
+D:\programmer\Projects\C#\CsharpProjects\do_while Learning\Handle_String_Arrays\obj\Debug\net8.0\Handle_String_Arrays.genruntimeconfig.cache
+D:\programmer\Projects\C#\CsharpProjects\do_while Learning\Handle_String_Arrays\obj\Debug\net8.0\ref\Handle_String_Arrays.dll

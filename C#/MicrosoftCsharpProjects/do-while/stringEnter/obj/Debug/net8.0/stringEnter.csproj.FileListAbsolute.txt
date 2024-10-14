@@ -1,0 +1,14 @@
+D:\programmer\Projects\C#\CsharpProjects\do_while Learning\stringEnter\obj\Debug\net8.0\stringEnter.GeneratedMSBuildEditorConfig.editorconfig
+D:\programmer\Projects\C#\CsharpProjects\do_while Learning\stringEnter\obj\Debug\net8.0\stringEnter.AssemblyInfoInputs.cache
+D:\programmer\Projects\C#\CsharpProjects\do_while Learning\stringEnter\obj\Debug\net8.0\stringEnter.AssemblyInfo.cs
+D:\programmer\Projects\C#\CsharpProjects\do_while Learning\stringEnter\obj\Debug\net8.0\stringEnter.csproj.CoreCompileInputs.cache
+D:\programmer\Projects\C#\CsharpProjects\do_while Learning\stringEnter\bin\Debug\net8.0\stringEnter.exe
+D:\programmer\Projects\C#\CsharpProjects\do_while Learning\stringEnter\bin\Debug\net8.0\stringEnter.deps.json
+D:\programmer\Projects\C#\CsharpProjects\do_while Learning\stringEnter\bin\Debug\net8.0\stringEnter.runtimeconfig.json
+D:\programmer\Projects\C#\CsharpProjects\do_while Learning\stringEnter\bin\Debug\net8.0\stringEnter.dll
+D:\programmer\Projects\C#\CsharpProjects\do_while Learning\stringEnter\bin\Debug\net8.0\stringEnter.pdb
+D:\programmer\Projects\C#\CsharpProjects\do_while Learning\stringEnter\obj\Debug\net8.0\stringEnter.dll
+D:\programmer\Projects\C#\CsharpProjects\do_while Learning\stringEnter\obj\Debug\net8.0\refint\stringEnter.dll
+D:\programmer\Projects\C#\CsharpProjects\do_while Learning\stringEnter\obj\Debug\net8.0\stringEnter.pdb
+D:\programmer\Projects\C#\CsharpProjects\do_while Learning\stringEnter\obj\Debug\net8.0\stringEnter.genruntimeconfig.cache
+D:\programmer\Projects\C#\CsharpProjects\do_while Learning\stringEnter\obj\Debug\net8.0\ref\stringEnter.dll
