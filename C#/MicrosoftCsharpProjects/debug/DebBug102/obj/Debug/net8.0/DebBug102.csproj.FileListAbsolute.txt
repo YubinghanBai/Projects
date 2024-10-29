@@ -1,0 +1,15 @@
+d:\programmer\Projects\C#\MicrosoftCsharpProjects\Debug\DebBug102\obj\Debug\net8.0\DebBug102.GeneratedMSBuildEditorConfig.editorconfig
+d:\programmer\Projects\C#\MicrosoftCsharpProjects\Debug\DebBug102\obj\Debug\net8.0\DebBug102.AssemblyInfoInputs.cache
+d:\programmer\Projects\C#\MicrosoftCsharpProjects\Debug\DebBug102\obj\Debug\net8.0\DebBug102.AssemblyInfo.cs
+d:\programmer\Projects\C#\MicrosoftCsharpProjects\Debug\DebBug102\obj\Debug\net8.0\DebBug102.csproj.CoreCompileInputs.cache
+d:\programmer\Projects\C#\MicrosoftCsharpProjects\Debug\DebBug102\obj\Debug\net8.0\DebBug102.sourcelink.json
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\Debug\DebBug102\bin\Debug\net8.0\DebBug102.exe
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\Debug\DebBug102\bin\Debug\net8.0\DebBug102.deps.json
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\Debug\DebBug102\bin\Debug\net8.0\DebBug102.runtimeconfig.json
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\Debug\DebBug102\bin\Debug\net8.0\DebBug102.dll
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\Debug\DebBug102\bin\Debug\net8.0\DebBug102.pdb
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\Debug\DebBug102\obj\Debug\net8.0\DebBug102.dll
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\Debug\DebBug102\obj\Debug\net8.0\refint\DebBug102.dll
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\Debug\DebBug102\obj\Debug\net8.0\DebBug102.pdb
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\Debug\DebBug102\obj\Debug\net8.0\DebBug102.genruntimeconfig.cache
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\Debug\DebBug102\obj\Debug\net8.0\ref\DebBug102.dll

@@ -1,0 +1,15 @@
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\debug\exception\Challenge-project-debugging-CSharp-main\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\bin\Debug\net8.0\Starter.exe
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\debug\exception\Challenge-project-debugging-CSharp-main\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\bin\Debug\net8.0\Starter.deps.json
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\debug\exception\Challenge-project-debugging-CSharp-main\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\bin\Debug\net8.0\Starter.runtimeconfig.json
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\debug\exception\Challenge-project-debugging-CSharp-main\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\bin\Debug\net8.0\Starter.dll
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\debug\exception\Challenge-project-debugging-CSharp-main\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\bin\Debug\net8.0\Starter.pdb
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\debug\exception\Challenge-project-debugging-CSharp-main\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\debug\exception\Challenge-project-debugging-CSharp-main\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfoInputs.cache
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\debug\exception\Challenge-project-debugging-CSharp-main\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfo.cs
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\debug\exception\Challenge-project-debugging-CSharp-main\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.csproj.CoreCompileInputs.cache
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\debug\exception\Challenge-project-debugging-CSharp-main\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.sourcelink.json
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\debug\exception\Challenge-project-debugging-CSharp-main\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.dll
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\debug\exception\Challenge-project-debugging-CSharp-main\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\refint\Starter.dll
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\debug\exception\Challenge-project-debugging-CSharp-main\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.pdb
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\debug\exception\Challenge-project-debugging-CSharp-main\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.genruntimeconfig.cache
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\debug\exception\Challenge-project-debugging-CSharp-main\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\ref\Starter.dll

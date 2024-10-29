@@ -1,0 +1,15 @@
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\Exception\ExceptionExample\bin\Debug\net8.0\ExceptionExample.exe
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\Exception\ExceptionExample\bin\Debug\net8.0\ExceptionExample.deps.json
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\Exception\ExceptionExample\bin\Debug\net8.0\ExceptionExample.runtimeconfig.json
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\Exception\ExceptionExample\bin\Debug\net8.0\ExceptionExample.dll
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\Exception\ExceptionExample\bin\Debug\net8.0\ExceptionExample.pdb
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\Exception\ExceptionExample\obj\Debug\net8.0\ExceptionExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\Exception\ExceptionExample\obj\Debug\net8.0\ExceptionExample.AssemblyInfoInputs.cache
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\Exception\ExceptionExample\obj\Debug\net8.0\ExceptionExample.AssemblyInfo.cs
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\Exception\ExceptionExample\obj\Debug\net8.0\ExceptionExample.csproj.CoreCompileInputs.cache
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\Exception\ExceptionExample\obj\Debug\net8.0\ExceptionExample.sourcelink.json
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\Exception\ExceptionExample\obj\Debug\net8.0\ExceptionExample.dll
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\Exception\ExceptionExample\obj\Debug\net8.0\refint\ExceptionExample.dll
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\Exception\ExceptionExample\obj\Debug\net8.0\ExceptionExample.pdb
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\Exception\ExceptionExample\obj\Debug\net8.0\ExceptionExample.genruntimeconfig.cache
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\Exception\ExceptionExample\obj\Debug\net8.0\ref\ExceptionExample.dll

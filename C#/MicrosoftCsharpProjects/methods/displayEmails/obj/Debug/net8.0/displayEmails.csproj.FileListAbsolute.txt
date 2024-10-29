@@ -1,0 +1,15 @@
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\新建文件夹\displayEmails\obj\Debug\net8.0\displayEmails.GeneratedMSBuildEditorConfig.editorconfig
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\新建文件夹\displayEmails\obj\Debug\net8.0\displayEmails.AssemblyInfoInputs.cache
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\新建文件夹\displayEmails\obj\Debug\net8.0\displayEmails.AssemblyInfo.cs
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\新建文件夹\displayEmails\obj\Debug\net8.0\displayEmails.csproj.CoreCompileInputs.cache
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\新建文件夹\displayEmails\obj\Debug\net8.0\displayEmails.sourcelink.json
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\新建文件夹\displayEmails\bin\Debug\net8.0\displayEmails.exe
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\新建文件夹\displayEmails\bin\Debug\net8.0\displayEmails.deps.json
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\新建文件夹\displayEmails\bin\Debug\net8.0\displayEmails.runtimeconfig.json
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\新建文件夹\displayEmails\bin\Debug\net8.0\displayEmails.dll
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\新建文件夹\displayEmails\bin\Debug\net8.0\displayEmails.pdb
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\新建文件夹\displayEmails\obj\Debug\net8.0\displayEmails.dll
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\新建文件夹\displayEmails\obj\Debug\net8.0\refint\displayEmails.dll
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\新建文件夹\displayEmails\obj\Debug\net8.0\displayEmails.pdb
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\新建文件夹\displayEmails\obj\Debug\net8.0\displayEmails.genruntimeconfig.cache
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\新建文件夹\displayEmails\obj\Debug\net8.0\ref\displayEmails.dll

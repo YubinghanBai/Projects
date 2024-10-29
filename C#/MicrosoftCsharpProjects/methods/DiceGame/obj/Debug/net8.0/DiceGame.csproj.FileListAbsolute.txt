@@ -1,0 +1,5 @@
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\新建文件夹\DiceGame\obj\Debug\net8.0\DiceGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\新建文件夹\DiceGame\obj\Debug\net8.0\DiceGame.AssemblyInfoInputs.cache
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\新建文件夹\DiceGame\obj\Debug\net8.0\DiceGame.AssemblyInfo.cs
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\新建文件夹\DiceGame\obj\Debug\net8.0\DiceGame.csproj.CoreCompileInputs.cache
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\新建文件夹\DiceGame\obj\Debug\net8.0\DiceGame.sourcelink.json

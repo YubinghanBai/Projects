@@ -14,3 +14,14 @@ def k_in_num(k, num):
     False
     """
     "*** YOUR CODE HERE ***"
+    if num==0:
+        return False
+    while num>0:
+        temp = num%10
+        num//=10
+        if k==temp:
+            return True
+print(k_in_num(3, 123))  # True
+print(k_in_num(2, 123))  # True
+print(k_in_num(5, 123))  # False
+print(k_in_num(0, 0))  # False

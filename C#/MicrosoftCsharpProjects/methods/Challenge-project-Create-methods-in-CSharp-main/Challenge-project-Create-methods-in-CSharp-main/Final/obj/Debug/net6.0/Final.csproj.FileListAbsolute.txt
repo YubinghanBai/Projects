@@ -1,0 +1,15 @@
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\methods\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-methods-in-CSharp-main\Final\bin\Debug\net6.0\Final.exe
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\methods\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-methods-in-CSharp-main\Final\bin\Debug\net6.0\Final.deps.json
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\methods\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-methods-in-CSharp-main\Final\bin\Debug\net6.0\Final.runtimeconfig.json
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\methods\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-methods-in-CSharp-main\Final\bin\Debug\net6.0\Final.dll
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\methods\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-methods-in-CSharp-main\Final\bin\Debug\net6.0\Final.pdb
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\methods\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-methods-in-CSharp-main\Final\obj\Debug\net6.0\Final.GeneratedMSBuildEditorConfig.editorconfig
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\methods\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-methods-in-CSharp-main\Final\obj\Debug\net6.0\Final.AssemblyInfoInputs.cache
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\methods\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-methods-in-CSharp-main\Final\obj\Debug\net6.0\Final.AssemblyInfo.cs
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\methods\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-methods-in-CSharp-main\Final\obj\Debug\net6.0\Final.csproj.CoreCompileInputs.cache
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\methods\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-methods-in-CSharp-main\Final\obj\Debug\net6.0\Final.sourcelink.json
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\methods\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-methods-in-CSharp-main\Final\obj\Debug\net6.0\Final.dll
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\methods\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-methods-in-CSharp-main\Final\obj\Debug\net6.0\refint\Final.dll
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\methods\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-methods-in-CSharp-main\Final\obj\Debug\net6.0\Final.pdb
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\methods\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-methods-in-CSharp-main\Final\obj\Debug\net6.0\Final.genruntimeconfig.cache
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\methods\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-methods-in-CSharp-main\Final\obj\Debug\net6.0\ref\Final.dll
