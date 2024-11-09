@@ -1,0 +1,15 @@
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\5,methods\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-methods-in-CSharp-main\Starter\bin\Debug\net6.0\Starter.exe
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\5,methods\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-methods-in-CSharp-main\Starter\bin\Debug\net6.0\Starter.deps.json
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\5,methods\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-methods-in-CSharp-main\Starter\bin\Debug\net6.0\Starter.runtimeconfig.json
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\5,methods\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-methods-in-CSharp-main\Starter\bin\Debug\net6.0\Starter.dll
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\5,methods\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-methods-in-CSharp-main\Starter\bin\Debug\net6.0\Starter.pdb
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\5,methods\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\5,methods\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.AssemblyInfoInputs.cache
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\5,methods\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.AssemblyInfo.cs
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\5,methods\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.csproj.CoreCompileInputs.cache
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\5,methods\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.sourcelink.json
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\5,methods\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.dll
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\5,methods\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\refint\Starter.dll
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\5,methods\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.pdb
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\5,methods\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.genruntimeconfig.cache
+D:\programmer\Projects\C#\MicrosoftCsharpProjects\5,methods\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\ref\Starter.dll

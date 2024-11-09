@@ -1,3 +1,4 @@
+from operator import add,mul,mod
 def lambda_curry2(func):
     """
     Returns a Curried version of a two-argument function FUNC.
@@ -14,7 +15,8 @@ def lambda_curry2(func):
     3
     """
     "*** YOUR CODE HERE ***"
-    return lambda a:  func(a, b)
+    return lambda arg1: lambda arg2: func(arg1,arg2)
+
 
 
 def lambda_curry2_syntax_check():
@@ -56,6 +58,14 @@ def count_cond(condition):
     8
     """
     "*** YOUR CODE HERE ***"
+    def counter(n):
+        count=0
+        for i in range(1,n+1):
+            if condition(n,i):
+                count+=1
+        return count
+    return counter
+
 
 
 def composer(f, g):
@@ -91,6 +101,7 @@ def composite_identity(f, g):
     False
     """
     "*** YOUR CODE HERE ***"
+    return lambda x: f(g(x))==g(f(x))
 
 
 def cycle(f1, f2, f3):

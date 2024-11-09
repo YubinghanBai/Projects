@@ -5,7 +5,7 @@ test = {
     {
       'cases': [
         {
-          'answer': '8931dde0069a69c71baf9c4f70650ef1',
+          'answer': 'A lambda expression does not automatically bind the function object that it returns to any name.',
           'choices': [
             'A lambda expression does not automatically bind the function object that it returns to any name.',
             'A lambda expression cannot have more than two parameters.',
@@ -13,12 +13,12 @@ test = {
             'A def statement can only have one line in its body.'
           ],
           'hidden': False,
-          'locked': True,
+          'locked': False,
           'multiline': False,
           'question': 'Which of the following statements describes a difference between a def statement and a lambda expression?'
         },
         {
-          'answer': '2ad3e8f40fd1b51f9a33075a0048a5d6',
+          'answer': 'two',
           'choices': [
             'one',
             'two',
@@ -26,7 +26,7 @@ test = {
             'Not enough information'
           ],
           'hidden': False,
-          'locked': True,
+          'locked': False,
           'multiline': False,
           'question': r"""
           How many parameters does the following lambda expression have?
@@ -34,7 +34,7 @@ test = {
           """
         },
         {
-          'answer': 'caa97dd5ae148cd72efcf98ef6f4b913',
+          'answer': 'When the function returned by the lambda expression is called.',
           'choices': [
             'When the function returned by the lambda expression is called.',
             'When you assign the lambda expression to a name.',
@@ -42,7 +42,7 @@ test = {
             'When you pass the lambda expression into another function.'
           ],
           'hidden': False,
-          'locked': True,
+          'locked': False,
           'multiline': False,
           'question': 'When is the return expression of a lambda expression executed?'
         }

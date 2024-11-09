@@ -9,3 +9,12 @@ def hop():
     7
     """
     "*** YOUR CODE HERE ***"
+    def f(x):
+        def g(y):
+            return y
+        return g
+    return f
+    #简化版本
+    #return lambda x: lambda y:y
+print(hop()(3)(2))
+
